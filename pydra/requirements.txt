@@ -1,1 +1,2 @@
 pydra[doc,dev]>=1.0a2
+jupyter
