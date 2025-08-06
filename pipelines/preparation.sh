@@ -15,6 +15,7 @@ git pull
 
 # Install the pipelines-community repository
 pip install -r ./requirements.txt
+pip install bash_kernel
 python -m bash_kernel.install
 
 
